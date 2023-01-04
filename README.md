@@ -7,7 +7,7 @@
 
 ### 상속의 문제점
 - 자식 클래스가 늘어날 수록 부모 클래스의 변경이 어려워짐
-  ![img.png](img.png)
+  ![img.png](img/inheritance.png)
 
 ### 상속이 아닌 조립
 - Composition
